@@ -1,0 +1,11 @@
+{
+  "name": "truco-paulista-tdd",
+  "version": "1.0.0",
+  "description": "Casos de teste (TDD) para o jogo Truco Paulista",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
